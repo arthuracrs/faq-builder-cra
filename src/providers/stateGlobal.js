@@ -50,27 +50,20 @@ const faqParse = (json) => {
     return data
 }
 
-export const StateContext = createContext({})
-
 const loadNewJson = (json) => {
-
-}
-
-export const StateProvider = (props) => {
-
-    const data = faqParse(faqjson)
+    const data = faqParse(json)
     const col1 = []
     const col2 = []
 
     for (let i = 0; i < data.length; i++) {
-        if (i % 2 == 0) {
+        if (i % 2 === 0) {
             col1.push(data[i])
         } else {
             col2.push(data[i])
         }
     }
 
-    const [stateGlobal, setStateGlobal] = useState({
+    return {
         colunas: [
             {
                 idColuna: newId(),
@@ -81,7 +74,14 @@ export const StateProvider = (props) => {
                 categorias: col2
             }
         ]
-    })
+    }
+}
+
+export const StateContext = createContext({})
+
+export const StateProvider = (props) => {
+
+    const [stateGlobal, setStateGlobal] = useState(loadNewJson(faqjson))
 
     const getColunaIndex = (idColuna) => {
         const colunas = stateGlobal.colunas
@@ -107,7 +107,7 @@ export const StateProvider = (props) => {
     }
 
     return (
-        <StateContext.Provider value={{ categoriaFactory, perguntaFactory, newId, stateGlobal, getColunaIndex, getCategoriaIndex, setStateGlobal }}>
+        <StateContext.Provider value={{ loadNewJson, categoriaFactory, perguntaFactory, newId, stateGlobal, getColunaIndex, getCategoriaIndex, setStateGlobal }}>
             {props.children}
         </StateContext.Provider>
     )

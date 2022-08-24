@@ -6,7 +6,7 @@ import './styles.css'
 import { StateContext } from '../../providers/stateGlobal';
 
 export function ViewJson(params) {
-    const { stateGlobal } = useContext(StateContext)
+    const { stateGlobal, setStateGlobal, loadNewJson } = useContext(StateContext)
 
     const copyobj = obj => JSON.parse(JSON.stringify(obj))
 
@@ -35,9 +35,23 @@ export function ViewJson(params) {
           });
     }
 
+    function onUpload(event) {
+        const reader = new FileReader();
+        reader.onload = onReaderLoad;
+        reader.readAsText(event.target.files[0]);
+    }
+
+    function onReaderLoad(event){
+        console.log(event.target.result);
+        const obj = JSON.parse(event.target.result);
+
+        setStateGlobal(loadNewJson(obj))
+    }
+
     return (
         <div className='viewJson'>
             <button onClick={copyToClipboard}>Copiar</button>
+            <input onChange={onUpload} accept=".json" type="file" id="jsonFile" name="jsonFile"/>
             <div className='json-box'>
                 {parse(`<pre>${final}</pre> `)}
             </div>
