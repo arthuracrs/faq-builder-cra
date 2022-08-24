@@ -1,0 +1,22 @@
+.pergunta {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    color: rgb(36, 32, 107);
+}
+
+.pergunta h2 {
+    font-size: 15pt;
+    font-weight: bolder;
+    padding: 10px;
+}
+
+.pergunta-resposta {
+    padding: 10px;
+    
+}
+
+.pergunta-box {
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px lightgray;
+    padding: 20px 20px 30px 100px;
+}

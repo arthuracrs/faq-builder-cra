@@ -1,0 +1,15 @@
+.viewJson{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: whitesmoke;
+}
+
+.viewJson button{
+    padding: 10px;
+    font-size: 20pt;
+}
+
+.viewJson .json-box{
+    overflow-x: scroll;
+}

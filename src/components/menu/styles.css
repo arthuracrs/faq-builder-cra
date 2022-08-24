@@ -1,0 +1,18 @@
+.menu {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    flex-direction: row;
+    padding: 20px 0;
+    color: rgb(36, 32, 107);
+    background-color: white;
+}
+
+.menu h1 {
+    text-decoration: none;
+}
+
+.menu a{
+    color: rgb(36, 32, 107);
+}

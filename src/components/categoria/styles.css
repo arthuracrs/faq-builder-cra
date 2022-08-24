@@ -1,0 +1,18 @@
+.categoria{
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    padding: 50px 10%;
+}
+
+.categoria h1{
+    color: rgb(36, 32, 107);
+    text-align: center;
+    font-size: 28pt;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.perguntas {
+    display: flex;
+    flex-direction: column;
+}

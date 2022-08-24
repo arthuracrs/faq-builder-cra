@@ -1,0 +1,362 @@
+[
+    {
+        "idCategoria": 59,
+        "categoria": "Sobre o adesivo",
+        "perguntas": [
+            {
+                "idPergunta": 172,
+                "titulo": "O que é o adesivo (tag) Veloe?",
+                "resposta": {
+                    "idResposta": 170,
+                    "texto": "É um meio de pagamento que deve ser colocado no para-brisa do veículo. A comunicação é feita radiofrequência com as cancelas automáticas dos estabelecimentos que possuem Veloe, liberando a passagem em pedágios e estacionamentos."
+                }
+            },
+            {
+                "idPergunta": 173,
+                "titulo": "Como adquirir mais um adesivo (tag) Veloe?",
+                "resposta": {
+                    "idResposta": 171,
+                    "texto": "Você pode adquirir o adesivo (tag) Veloe na página inicial do app, clicando em “Meus adesivos” e em “Solicitar adesivo”. Também nas unidades móveis distribuídas por várias cidades, onde você poderá adquirir e já sair usando."
+                }
+            },
+            {
+                "idPergunta": 174,
+                "titulo": "Como ativar meu adesivo (tag)?",
+                "resposta": {
+                    "idResposta": 172,
+                    "texto": "Na página inicial do app clique em “Meus adesivos”, “Ativar adesivo” e use o QR Code para preencher automaticamente o número do adesivo (tag)."
+                }
+            },
+            {
+                "idPergunta": 175,
+                "titulo": "Pra que serve o adesivo (tag) Veloe?",
+                "resposta": {
+                    "idResposta": 173,
+                    "texto": "Com o adesivo (tag) Veloe você passa nos pedágios com mais rapidez e segurança, dá adeus às filas e não precisa mais manusear dinheiro. Além de dar adeus aos tickets e filas de pagamento em mais de 300 estacionamentos de rua, shoppings e aeroportos."
+                }
+            },
+            {
+                "idPergunta": 176,
+                "titulo": "Troquei de veículo, posso reutilizar o adesivo (tag)?",
+                "resposta": {
+                    "idResposta": 174,
+                    "texto": "Cada adesivo (tag) Veloe deve ser associado a um veículo, assim que você o retirar, ele fica inutilizável.<br> Se for trocar o veículo, fique tranquilo, você não vai pagar por um novo adesivo (tag). Peça pelo menu “Minha conta” e clique em “Solicitar adesivo”."
+                }
+            },
+            {
+                "idPergunta": 177,
+                "titulo": "Colei errado, o que devo fazer?",
+                "resposta": {
+                    "idResposta": 175,
+                    "texto": "Se colou o adesivo (tag) Veloe errado, infelizmente, ele não vai funcionar corretamente. Peça pelo menu “Minha conta” e clique em “Solicitar adesivo”."
+                }
+            },
+            {
+                "idPergunta": 178,
+                "titulo": "Como colocar o adesivo (tag)?",
+                "resposta": {
+                    "idResposta": 176,
+                    "texto": "Cada veículo possui um jeito diferente de instalar o adesivo (tag). Por isso, <a href='https://www.veloe.com.br/adesivo/#jeito-de-usar-adesivo'>clique aqui</a> e veja como colar. Você também pode encontrar o manual de instalação no app em “Minha conta”, clique em “Sobre a Veloe”, “Manual do usuário”, “Como instalar” e selecione qual veículo você quer saber como usar o adesivo (tag) Veloe"
+                }
+            },
+            {
+                "idPergunta": 179,
+                "titulo": "Veloe funciona em placas com o novo padrão Mercosul?",
+                "resposta": {
+                    "idResposta": 177,
+                    "texto": "Sim, cliente Veloe com carro novo ou que trocou a placa recentemente pode ativar normalmente o adesivo (tag) pelo app ou pelo site."
+                }
+            },
+            {
+                "idPergunta": 180,
+                "titulo": "Preciso substituir o meu adesivo (tag), o que devo fazer?",
+                "resposta": {
+                    "idResposta": 178,
+                    "texto": "Se colou errado ou precisa substituir o adesivo (tag), você precisa fazer o bloqueio do antigo e pedir um novo. Acesse “Meus adesivos” e clique em “Solicitar adesivos”."
+                }
+            }
+        ]
+    },
+    {
+        "idCategoria": 65,
+        "titulo": "Sua conta",
+        "perguntas": [
+            {
+                "idPergunta": 193,
+                "titulo": "Consigo compartilhar o comprovante de uma transação?",
+                "resposta": {
+                    "idResposta": 191,
+                    "texto": "Sim, você consegue compartilhar o comprovante de uma transação, acesse o menu “Extrato” no app, clique na transação e escolha onde quer compartilhar entre as opções disponíveis."
+                }
+            },
+            {
+                "idPergunta": 194,
+                "titulo": "É possível ter mais de um veículo cadastrado no mesmo adesivo (tag)?",
+                "resposta": {
+                    "idResposta": 192,
+                    "texto": "Não, cada veículo precisa ter o seu próprio adesivo (tag) e eles podem compartilhar o saldo da mesma conta.<br>Para pessoa física, é possível cadastrar até 10 veículos. Para empresas, você pode cadastrar quantos veículos quiser na mesma conta. Peça seus adesivos (tags) pelo app clicando em “Meus adesivos” e depois em “Solicitar adesivo”."
+                }
+            },
+            {
+                "idPergunta": 195,
+                "titulo": "Como consultar ou alterar o meu cadastro?",
+                "resposta": {
+                    "idResposta": 193,
+                    "texto": "Pra consultar ou alterar o seu cadastro, acesse “Minha conta”, clique em “Dados pessoais” e pronto, é só atualizar."
+                }
+            },
+            {
+                "idPergunta": 196,
+                "titulo": "Como habilitar ou desabilitar notificações?",
+                "resposta": {
+                    "idResposta": 194,
+                    "texto": "Fique tranquilo! Em “Minha conta”, você pode habilitar e desabilitar as notificações que você recebe do nosso app."
+                }
+            },
+            {
+                "idPergunta": 197,
+                "titulo": "Como habilitar ou desabilitar a biometria?",
+                "resposta": {
+                    "idResposta": 195,
+                    "texto": "Em “Minha conta”, você pode habilitar e desabilitar o acesso no nosso app com a sua biometria."
+                }
+            },
+            {
+                "idPergunta": 198,
+                "titulo": "Onde eu posso consultar o meu histórico de consumo?",
+                "resposta": {
+                    "idResposta": 196,
+                    "texto": "Você pode consultar na página inicial do app em “Detalhes do consumo”."
+                }
+            }
+        ]
+    },
+    {
+        "idCategoria": 64,
+        "titulo": "Pedágios",
+        "perguntas": [
+            {
+                "idPergunta": 191,
+                "titulo": "Como passo em pedágios com o adesivo (tag) Veloe?",
+                "resposta": {
+                    "idResposta": 189,
+                    "texto": "<ul><li>Ative e cole o adesivo (tag) no parabrisa do veículo;</li><li>Utilize as pistas identificadas com a placa de cobrança automática;</li><li>Ao se aproximar da cabine automática, reduza a velocidade pra 40 km/h pra leitura do adesivo (tag). Se o veículo tem mais de 6 eixos, recomendamos não exceder 20km/h.</li><li>Atenção aos sinais luminosos e sonoros da pista: eles indicam se sua passagem foi liberada ou não.</li></ul><br>Se surgir algum problema, pare e siga as orientações dos agentes da pista."
+                }
+            },
+            {
+                "idPergunta": 192,
+                "titulo": "O que fazer se receber uma multa por evasão ao utilizar Veloe em uma praça de pedágio?",
+                "resposta": {
+                    "idResposta": 190,
+                    "texto": "Nós não temos competência legal ou poder pra aplicar ou revogar multas de trânsito, então fique atento: se houver sinal e bloqueio na praça de pedágio, não saia sem realizar o pagamento.<br><br>Teve algum problema e precisar entender a situação da conta Veloe no momento da evasão? Nós analisamos pra você, entre em contato com a gente pela Central de Relacionamento 3003 3510 (capitais e regiões metropolitanas) ou 0800 208 3510 (demais localidades), todos os dias, 24 horas."
+                }
+            }
+        ]
+    },
+    {
+        "idCategoria": 61,
+        "titulo": "Atendimento",
+        "perguntas": [
+            {
+                "idPergunta": 182,
+                "titulo": "Como consulto o status de uma solicitação de atendimento?",
+                "resposta": {
+                    "idResposta": 180,
+                    "texto": "Todas as solicitações são respondidas em até 5 úteis, mas se você quer saber o status, entre contato com a Central de Relacionamento 3003 3510 (capitais e regiões metropolitanas) ou 0800 208 3510 (demais localidades), todos os dias, 24 horas."
+                }
+            },
+            {
+                "idPergunta": 183,
+                "titulo": "O que fazer se o veículo for roubado ou furtado?",
+                "resposta": {
+                    "idResposta": 181,
+                    "texto": "Você precisa fazer o bloqueio imediatamente do adesivo (tag) Veloe. Em “Meus adesivos”, clique em “Bloquear adesivo”."
+                }
+            }
+        ]
+    },
+    {
+        "idCategoria": 62,
+        "titulo": "Estacionamento",
+        "perguntas": [
+            {
+                "idPergunta": 184,
+                "titulo": "Como faço pra estacionar com o adesivo (tag) Veloe?",
+                "resposta": {
+                    "idResposta": 182,
+                    "texto": "<ul><li>Ao entrar e sair do estacionamento, utilize a pista com a sinalização da Veloe</li><li>Aproxime-se e aguarde a cancela abrir</li></ul><br>Se tiver algum problema, procure ajuda de algum funcionário do estacionamento."
+                }
+            },
+            {
+                "idPergunta": 185,
+                "titulo": "A cancela do estacionamento não abriu. O que eu faço?",
+                "resposta": {
+                    "idResposta": 183,
+                    "texto": "Se a cancela não abrir, procure ajuda de algum funcionário do estacionamento. Além disso, entre em contato com a Central de Relacionamento 3003 3510 (capitais e regiões metropolitanas) ou 0800 208 3510 (demais localidades), todos os dias, 24 horas."
+                }
+            }
+        ]
+    },
+    {
+        "idCategoria": 63,
+        "titulo": "Pagamento",
+        "perguntas": [
+            {
+                "idPergunta": 186,
+                "titulo": "Acho que tem um valor errado no meu extrato, o que eu faço?",
+                "resposta": {
+                    "idResposta": 184,
+                    "texto": "Pra contestar um valor que você não reconhece no extrato, ligue pra Central de Relacionamento 3003 3510 (capitais e regiões metropolitanas) ou 0800 208 3510 (demais localidades), todos os dias, 24 horas."
+                }
+            },
+            {
+                "idPergunta": 187,
+                "titulo": "Como faço uma recarga?",
+                "resposta": {
+                    "idResposta": 185,
+                    "texto": "Pelo app, você tem duas maneiras de fazer uma recarga: a manual e a automática.<br> Se você quiser fazer a manual, acesse o menu “Recarga” e clique em fazer “Recarga manual, escolha o valor, cartão para pagamento e clique em “Confirmar recarga”. Se você quiser alterar o valor da recarga automática, acesse o menu “Recarga” e clique em “Alterar o valor da recarga”, escolha o valor, cartão de pagamento e clique em “Confirmar” e pronto, você fica despreocupado."
+                }
+            },
+            {
+                "idPergunta": 188,
+                "titulo": "Como faço pra pagar minha fatura?",
+                "resposta": {
+                    "idResposta": 186,
+                    "texto": "Após o uso mensal, você recebe a fatura por e-mail e paga com débito em conta ou cartão de crédito. Se for pagar com débito em conta, você precisa autorizar no internet banking do seu banco."
+                }
+            },
+            {
+                "idPergunta": 189,
+                "titulo": "Como envio minha fatura por e-mail utilizando o app?",
+                "resposta": {
+                    "idResposta": 187,
+                    "texto": "Clique em “Fatura” e depois em “Enviar fatura por e-mail”. Nós vamos enviar para o e-mail cadastrado na conta Veloe.  Lembre-se, o envio só estará disponível quando a fatura estiver fechada."
+                }
+            },
+            {
+                "idPergunta": 190,
+                "titulo": "Não consegui fazer uma recarga ou pagar a minha fatura e agora?",
+                "resposta": {
+                    "idResposta": 188,
+                    "texto": "Se você está com dificuldade em fazer o pagamento da fatura ou uma recarga, entre em contato com a Central de Relacionamento 3003 3510 (capitais e regiões metropolitanas) ou 0800 208 3510 (demais localidades), todos os dias, 24 horas."
+                }
+            }
+        ]
+    },
+    {
+        "idCategoria": 68,
+        "titulo": "Termos de Uso e Manuais",
+        "perguntas": [
+            {
+                "idPergunta": 212,
+                "titulo": "Onde encontro os Termos e Condições de Uso da Veloe?",
+                "resposta": {
+                    "idResposta": 210,
+                    "texto": "Acesse “Minha conta” e clique em “Sobre a Veloe”."
+                }
+            },
+            {
+                "idPergunta": 213,
+                "titulo": "Onde encontro os manuais do adesivo?",
+                "resposta": {
+                    "idResposta": 211,
+                    "texto": "Em “Minha conta”, clique em “Sobre a Veloe”, “Manual do usuário”, “Como instalar” e selecione qual veículo você quer saber como usar o adesivo (tag) Veloe"
+                }
+            }
+        ]
+    },
+    {
+        "idCategoria": 69,
+        "titulo": "Lava Rapido Voucher",
+        "perguntas": [
+            {
+                "idPergunta": 214,
+                "titulo": "O que é o serviço de lava rápido na Veloe?",
+                "resposta": {
+                    "idResposta": 212,
+                    "texto": "O serviço de lava rápido no aplicativo Veloe é a compra de voucher e utilização de quaisquer estabelecimentos credenciados na rede Parkaz."
+                }
+            },
+            {
+                "idPergunta": 215,
+                "titulo": "Como utilizo o serviço de lava rápido com a tag Veloe?",
+                "resposta": {
+                    "idResposta": 213,
+                    "texto": "Para utilizar o serviço você precisar estar com a sua tag ativa e realizar a compra do voucher no Aplicativo Veloe e consultar o lava rápido mais próximo no menu “Lava Rápido” que se encontra na Home do App. Não esqueça de atualizar o seu aplicativo, ok?"
+                }
+            },
+            {
+                "idPergunta": 216,
+                "titulo": "Quais são os benefícios em utilizar o serviço de lava rápido Veloe",
+                "resposta": {
+                    "idResposta": 214,
+                    "texto": "Os benefícios são: o voucher não tem prazo de validade, você pode utilizar o saldo Veloe para a compra do voucher, você pode utilizar em quaisquer estabelecimentos espalhados no Brasil com valor fixo de lavagem."
+                }
+            },
+            {
+                "idPergunta": 217,
+                "titulo": "Onde aceita o serviço de lava rápido?",
+                "resposta": {
+                    "idResposta": 215,
+                    "texto": "A rede credenciada Parkaz está espalhada em todo o território brasileiro em mais de 180 cidades. Clique aqui e confira."
+                }
+            },
+            {
+                "idPergunta": 218,
+                "titulo": "Comprei o voucher pelo aplicativo, o que devo fazer?",
+                "resposta": {
+                    "idResposta": 216,
+                    "texto": "Após a compra do voucher, basta conferir os estabelecimentos mais próximos da sua localidade. Clique aqui e confira!"
+                }
+            },
+            {
+                "idPergunta": 219,
+                "titulo": "Existe validade no voucher que foi comprado?",
+                "resposta": {
+                    "idResposta": 217,
+                    "texto": "Não há validade na compra para Pessoa Física."
+                }
+            },
+            {
+                "idPergunta": 220,
+                "titulo": "Quero cancelar a minha compra, o tipo de lavagem está incorreto. O que devo fazer?",
+                "resposta": {
+                    "idResposta": 218,
+                    "texto": "Você deve entrar em contato pelo whatsapp pelo número (11)6975416502 ."
+                }
+            },
+            {
+                "idPergunta": 221,
+                "titulo": "Como consigo acompanhar os vouchers que foram utilizados e os que estão em aberto?",
+                "resposta": {
+                    "idResposta": 219,
+                    "texto": "Para ter o histórico dos vouchers que foram comprados, basta acessar o menu Lava Rápido > Meus vouchers."
+                }
+            },
+            {
+                "idPergunta": 222,
+                "titulo": "Existe algum adicional ao utilizar o serviço de lava rápido?",
+                "resposta": {
+                    "idResposta": 220,
+                    "texto": "O valor é apenas o da lavagem escolhida, não existe um adicional para utilização do serviço."
+                }
+            },
+            {
+                "idPergunta": 223,
+                "titulo": "Como realizo o pagamento da lavagem?",
+                "resposta": {
+                    "idResposta": 221,
+                    "texto": "O pagamento é feito utilizando o saldo Veloe para todos os tipos de planos, atualize o seu aplicativo Veloe e aproveite."
+                }
+            },
+            {
+                "idPergunta": 224,
+                "titulo": "O que é a Rede Parkaz?",
+                "resposta": {
+                    "idResposta": 222,
+                    "texto": "É um parceiro Veloe que disponibiliza estabelecimentos em todo o território brasileiro de lava rápidos."
+                }
+            }
+        ]
+    }
+]
